@@ -1,1 +1,1 @@
-# Introduction
+ Hi, I’m @Saiyed Umair,I'm an early-career Self Taught Data Analyst with a curiosity and passion for creative problem solving. ☀️ I use Jupyter notebook and Google Collab for my projects and work. 🤹 My skill set includes Python | MS Excel | Power BI | SQL | Statistics | EDA - AutoEDA| Machine Learning. 👀 I’m interested in learning new skills and tools that would challenge me. 🌱 I’m currently learning machine learning and participating in virtual interships. 📫 How to reach me https://www.linkedin.com/in/saiyedumairashraf/
